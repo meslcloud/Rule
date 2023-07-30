@@ -1,0 +1,12 @@
+DOMAIN-SUFFIX,aaplimg.com
+DOMAIN-SUFFIX,Apple.co
+DOMAIN-SUFFIX,Apple.com
+DOMAIN-SUFFIX,appstore.com
+DOMAIN-SUFFIX,cdn-Apple.com
+DOMAIN-SUFFIX,crashlytics.com
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,me.com
+DOMAIN-SUFFIX,mzstatic.com
+DOMAIN,www-cdn.icloud.com.akadns.net
+IP-CIDR,17.0.0.0/8,no-resolve
