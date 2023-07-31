@@ -15,8 +15,6 @@ DOMAIN-SUFFIX,autonavi.com
 DOMAIN-KEYWORD,baidu
 DOMAIN-SUFFIX,bdimg.com
 DOMAIN-SUFFIX,bdstatic.com
-DOMAIN-SUFFIX,bilibili.com
-DOMAIN-SUFFIX,bilivideo.com
 DOMAIN-SUFFIX,caiyunapp.com
 DOMAIN-SUFFIX,clouddn.com
 DOMAIN-SUFFIX,cnbeta.com
@@ -57,18 +55,12 @@ DOMAIN-SUFFIX,meituan.com
 DOMAIN-SUFFIX,meituan.net
 DOMAIN-SUFFIX,mi.com
 DOMAIN-SUFFIX,miaopai.com
-DOMAIN-SUFFIX,microsoft.com
-DOMAIN-SUFFIX,microsoftonline.com
 DOMAIN-SUFFIX,miui.com
 DOMAIN-SUFFIX,miwifi.com
 DOMAIN-SUFFIX,mob.com
 DOMAIN-SUFFIX,netease.com
-DOMAIN-SUFFIX,office.com
-DOMAIN-SUFFIX,office365.com
-DOMAIN-KEYWORD,officecdn
 DOMAIN-SUFFIX,oschina.net
 DOMAIN-SUFFIX,ppsimg.com
-DOMAIN-SUFFIX,pstatp.com
 DOMAIN-SUFFIX,qcloud.com
 DOMAIN-SUFFIX,qdaily.com
 DOMAIN-SUFFIX,qdmm.com
@@ -91,7 +83,6 @@ DOMAIN-SUFFIX,sogou.com
 DOMAIN-SUFFIX,sogoucdn.com
 DOMAIN-SUFFIX,sohu.com
 DOMAIN-SUFFIX,soku.com
-DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,sspai.com
 DOMAIN-SUFFIX,suning.com
 DOMAIN-SUFFIX,taobao.com
