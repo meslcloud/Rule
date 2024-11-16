@@ -668,3 +668,7 @@ payload:
   - DOMAIN-KEYWORD,skydrive
   - PROCESS-NAME,OneDrive
   - PROCESS-NAME,OneDriveUpdater
+  - DOMAIN,edge.activity.windows.com
+  - DOMAIN,edge.microsoft.com
+  - DOMAIN,iecvlist.microsoft.com
+  - DOMAIN,msedge.api.cdp.microsoft.com
