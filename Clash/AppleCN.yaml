@@ -1,5 +1,4 @@
 payload:
-  - DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
   - DOMAIN-SUFFIX,apple.com.cn
   - DOMAIN-SUFFIX,icloud.com.cn
   - DOMAIN-SUFFIX,cn.apple.com
