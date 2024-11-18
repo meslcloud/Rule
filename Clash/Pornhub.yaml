@@ -1,10 +1,10 @@
 payload:
-  - DOMAIN-SUFFIX,phncdn.com,MESL
-  - DOMAIN-SUFFIX,phprcdn.com,MESL
-  - DOMAIN-SUFFIX,porhub.com,MESL
-  - DOMAIN-SUFFIX,porngub.com,MESL
-  - DOMAIN-SUFFIX,pornhub-deutsch.net,MESL
-  - DOMAIN-SUFFIX,pornhub.com,MESL
-  - DOMAIN-SUFFIX,pornhubapparel.com,MESL
-  - DOMAIN-SUFFIX,pornhubpremium.com,MESL
-  - DOMAIN-SUFFIX,pronstore.com,MESL
+  - DOMAIN-SUFFIX,phncdn.com
+  - DOMAIN-SUFFIX,phprcdn.com
+  - DOMAIN-SUFFIX,porhub.com
+  - DOMAIN-SUFFIX,porngub.com
+  - DOMAIN-SUFFIX,pornhub-deutsch.net
+  - DOMAIN-SUFFIX,pornhub.com
+  - DOMAIN-SUFFIX,pornhubapparel.com
+  - DOMAIN-SUFFIX,pornhubpremium.com
+  - DOMAIN-SUFFIX,pronstore.com
