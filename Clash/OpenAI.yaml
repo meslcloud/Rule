@@ -31,6 +31,7 @@ payload:
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,stripe.com
   - DOMAIN-SUFFIX,turn.livekit.cloud
+  - DOMAIN-SUFFIX,sora.com
   - DOMAIN-KEYWORD,openai
   - IP-CIDR,24.199.123.28/32
   - IP-CIDR,64.23.132.171/32
