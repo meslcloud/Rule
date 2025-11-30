@@ -1,4 +1,8 @@
 payload:
   - DOMAIN-SUFFIX,apple-relay.apple.com
   - DOMAIN-SUFFIX,apple-relay.cloudflare.com
+  - DOMAIN-SUFFIX,apple-relay.fastly-edge.com
+  - DOMAIN,cp4.cloudflare.com
+  - DOMAIN,smoot.apple.com
+  - DOMAIN,guzzoni.apple.com
   - DOMAIN-KEYWORD,apple-relay
