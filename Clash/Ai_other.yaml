@@ -2,8 +2,3 @@ payload:
   - DOMAIN-SUFFIX,openrouter.ai
   - DOMAIN-SUFFIX,x.ai
   - DOMAIN-SUFFIX,grok.com
-  - DOMAIN-SUFFIX,aistudio.google.com
-  - DOMAIN-SUFFIX,alkalimakersuite-pa.clients6.google.com
-  - DOMAIN-SUFFIX,generativelanguage.googleapis.com
-  - DOMAIN-SUFFIX,alkalicore-pa.clients6.google.com
-  - DOMAIN-SUFFIX,waa-pa.clients6.google.com
