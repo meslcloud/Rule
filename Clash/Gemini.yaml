@@ -1,16 +1,10 @@
 payload:
-  - DOMAIN,ai.google.dev
-  - DOMAIN,alkalimakersuite-pa.clients6.google.com
-  - DOMAIN,makersuite.google.com
-  - DOMAIN-SUFFIX,bard.google.com
-  - DOMAIN-SUFFIX,deepmind.com
-  - DOMAIN-SUFFIX,deepmind.google
   - DOMAIN-SUFFIX,gemini.google.com
-  - DOMAIN-SUFFIX,generativeai.google
   - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
   - DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
   - DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com
-  - DOMAIN-SUFFIX,apis.google.com
-  - DOMAIN-KEYWORD,colab
-  - DOMAIN-KEYWORD,developerprofiles
-  - DOMAIN-KEYWORD,generativelanguage
+  - DOMAIN-SUFFIX,aistudio.google.com
+  - DOMAIN-SUFFIX,alkalimakersuite-pa.clients6.google.com
+  - DOMAIN-SUFFIX,generativelanguage.googleapis.com
+  - DOMAIN-SUFFIX,alkalicore-pa.clients6.google.com
+  - DOMAIN-SUFFIX,waa-pa.clients6.google.com
