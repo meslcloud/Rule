@@ -5,3 +5,6 @@ DOMAIN-SUFFIX,technews.tw
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,debian.org
 DOMAIN-SUFFIX,ubuntu.com
+DOMAIN-SUFFIX,push.apple.com
+DOMAIN-SUFFIX,push-apple.com.akadns.net
+DOMAIN-SUFFIX,courier-push-apple.com.akadns.net
