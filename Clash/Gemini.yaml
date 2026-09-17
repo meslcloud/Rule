@@ -1,10 +1,10 @@
 payload:
   - DOMAIN-SUFFIX,gemini.google.com
   - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
-  - DOMAIN-SUFFIXsandbox-pa.googleapis.com
+  - DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
   - DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com
   - DOMAIN-SUFFIX,signaler-pa.clients6.google.com
-  - DOMAIN-SUFFIXstudio.google.com
+  - DOMAIN-SUFFIX,aistudio.google.com
   - DOMAIN-SUFFIX,alkalimakersuite-pa.clients6.google.com
   - DOMAIN-SUFFIX,generativelanguage.googleapis.com
   - DOMAIN-SUFFIX,alkalicore-pa.clients6.google.com
