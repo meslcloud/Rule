@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "res.cdn.office.net",
+        "res-1.cdn.office.net",
+        "statics.teams.cdn.office.net"
+      ],
+      "domain_suffix": [
+        "fs.microsoft.com",
+        "sdx.microsoft.com",
+        "docs.microsoft.com",
+        "build.microsoft.com",
+        "learn.microsoft.com",
+        "devblogs.microsoft.com",
+        "download.microsoft.com",
+        "developer.microsoft.com",
+        "officecdn.microsoft.com",
+        "cn.windowssearch.com",
+        "ctldl.windowsupdate.com",
+        "download.windowsupdate.com",
+        "wscont1.apps.microsoft.com",
+        "wscont2.apps.microsoft.com",
+        "download.prss.microsoft.com",
+        "download.visualstudio.microsoft.com",
+        "storeedgefd.dsx.mp.microsoft.com",
+        "dl.delivery.mp.microsoft.com"
+      ]
+    }
+  ]
+}

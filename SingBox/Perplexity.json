@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "perplexity.ai",
+        "perplexity.com",
+        "pplx.ai"
+      ]
+    }
+  ]
+}

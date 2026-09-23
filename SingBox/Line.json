@@ -1,0 +1,55 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "d17lx9ucc6k9fc.cloudfront.net",
+        "d3pgb93pk7bvxj.cloudfront.net",
+        "d3vm9lcxb6xcm4.cloudfront.net"
+      ],
+      "domain_suffix": [
+        "chocotv.com.tw",
+        "d3c7rimkq79yfu.cloudfront.net",
+        "line-cdn.net",
+        "line-scdn.net",
+        "linetv.tw",
+        "gcld-line.com",
+        "lin.ee",
+        "line-apps-beta.com",
+        "line-apps-rc.com",
+        "line-apps.com",
+        "line-beta.me",
+        "line.biz",
+        "line.me",
+        "linecorp.com",
+        "linefriends.com",
+        "linefriends.com.tw",
+        "linegame.jp",
+        "linemobile.com",
+        "linemyshop.com",
+        "lineshoppingseller.com",
+        "naver.jp",
+        "nhncorp.jp"
+      ],
+      "ip_cidr": [
+        "103.2.28.0/22",
+        "119.235.224.0/21",
+        "119.235.232.0/23",
+        "119.235.235.0/24",
+        "119.235.236.0/23",
+        "125.209.208.0/20",
+        "125.6.146.0/24",
+        "125.6.149.0/24",
+        "125.6.190.0/24",
+        "147.92.128.0/17",
+        "203.104.103.0/24",
+        "203.104.128.0/19",
+        "203.174.66.64/26",
+        "203.174.77.0/24"
+      ],
+      "process_name": [
+        "com.linecorp.linetv"
+      ]
+    }
+  ]
+}

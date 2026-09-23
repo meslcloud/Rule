@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "cp4.cloudflare.com"
+      ],
+      "domain_suffix": [
+        "apple-relay.apple.com",
+        "apple-relay.cloudflare.com",
+        "apple-relay.fastly-edge.com",
+        "smoot.apple.com",
+        "guzzoni.apple.com"
+      ],
+      "domain_keyword": [
+        "apple-relay"
+      ]
+    }
+  ]
+}

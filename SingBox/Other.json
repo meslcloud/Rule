@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "github.com",
+        "gitlab.com",
+        "nikke-en.com",
+        "technews.tw",
+        "docker.com",
+        "debian.org",
+        "ubuntu.com",
+        "push.apple.com",
+        "push-apple.com.akadns.net",
+        "courier-push-apple.com.akadns.net"
+      ]
+    }
+  ]
+}

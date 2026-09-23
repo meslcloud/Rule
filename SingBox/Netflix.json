@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "e13252.dscg.akamaiedge.net",
+        "h-netflix.online-metrix.net",
+        "netflix.com.edgesuite.net"
+      ],
+      "domain_suffix": [
+        "flxvpn.net",
+        "netflix.ca",
+        "netflix.com",
+        "netflix.com.au",
+        "netflixdnstest10.com",
+        "netflixdnstest1.com",
+        "netflixdnstest2.com",
+        "netflixdnstest3.com",
+        "netflixdnstest4.com",
+        "netflixdnstest5.com",
+        "netflixdnstest6.com",
+        "netflixdnstest7.com",
+        "netflixdnstest8.com",
+        "netflixdnstest9.com",
+        "netflixinvestor.com",
+        "netflix.net",
+        "netflixstudios.com",
+        "netflixtechblog.com",
+        "nflxext.com",
+        "nflximg.com",
+        "nflximg.net",
+        "nflxso.net",
+        "nflxvideo.net",
+        "onetrust.com",
+        "cookielaw.org"
+      ],
+      "ip_cidr": [
+        "23.246.0.0/18",
+        "34.210.42.111/32",
+        "37.77.184.0/21",
+        "38.72.126.0/24",
+        "45.57.0.0/17",
+        "52.89.124.203/32",
+        "54.148.37.5/32",
+        "64.120.128.0/17",
+        "66.197.128.0/17",
+        "69.53.224.0/19",
+        "103.87.204.0/22",
+        "108.175.32.0/20",
+        "185.2.220.0/22",
+        "185.9.188.0/22",
+        "192.173.64.0/18",
+        "198.38.96.0/19",
+        "198.45.48.0/20",
+        "208.75.76.0/22",
+        "2607:fb10::/32",
+        "2620:10c:7000::/44",
+        "2a00:86c0::/32",
+        "2a03:5640::/32"
+      ]
+    }
+  ]
+}
