@@ -1,0 +1,11 @@
+# AppleIntelligence：由 Surge/AppleIntelligence.list 转换
+domain_set:
+  - "cp4.cloudflare.com"
+domain_suffix_set:
+  - "apple-relay.apple.com"
+  - "apple-relay.cloudflare.com"
+  - "apple-relay.fastly-edge.com"
+  - "smoot.apple.com"
+  - "guzzoni.apple.com"
+domain_keyword_set:
+  - "apple-relay"

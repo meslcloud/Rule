@@ -1,0 +1,7 @@
+# Openai：由 Surge/Openai.list 转换
+domain_suffix_set:
+  - "openai.com"
+  - "oaistatic.com"
+  - "oaiusercontent.com"
+  - "chatgpt.com"
+  - "sora.com"

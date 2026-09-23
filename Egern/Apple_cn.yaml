@@ -1,0 +1,11 @@
+# Apple_cn：由 Surge/Apple_cn.list 转换
+domain_set:
+  - "api.smoot.apple.cn"
+  - "gs-loc-cn.apple.com"
+domain_suffix_set:
+  - "cn.apple.com"
+  - "apple.com.cn"
+  - "cn.ls.apple.com"
+  - "cn-ssl.ls.apple.com"
+  - "icloud.com.cn"
+  - "gspe19-cn-ssl.ls.apple.com"

@@ -1,0 +1,6 @@
+# Ai_other：由 Surge/Ai_other.list 转换
+domain_suffix_set:
+  - "openrouter.ai"
+  - "x.ai"
+  - "grok.com"
+  - "notion.com"

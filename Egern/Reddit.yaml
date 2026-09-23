@@ -1,0 +1,10 @@
+# Reddit：由 Surge/Reddit.list 转换
+domain_suffix_set:
+  - "redd.it"
+  - "reddit.com"
+  - "redditmail.com"
+  - "redditmedia.com"
+  - "redditstatic.com"
+  - "reddituploads.com"
+  - "reddituploads.com.cdn-cf.behance.net"
+  - "reddituploads.com.cdn-cf.dropbox.com"

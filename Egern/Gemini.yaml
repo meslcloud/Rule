@@ -1,0 +1,12 @@
+# Gemini：由 Surge/Gemini.list 转换
+domain_suffix_set:
+  - "gemini.google.com"
+  - "proactivebackend-pa.googleapis.com"
+  - "aisandbox-pa.googleapis.com"
+  - "robinfrontend-pa.googleapis.com"
+  - "signaler-pa.clients6.google.com"
+  - "aistudio.google.com"
+  - "alkalimakersuite-pa.clients6.google.com"
+  - "generativelanguage.googleapis.com"
+  - "alkalicore-pa.clients6.google.com"
+  - "waa-pa.clients6.google.com"

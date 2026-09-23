@@ -1,0 +1,10 @@
+# PikPak：由 Surge/PikPak.list 转换
+domain_suffix_set:
+  - "dlandroid.rcv.sandai.net"
+  - "hub5idx.v6.shub.sandai.net"
+  - "hub5pn.wap.sandai.net"
+  - "hub5pnc.sandai.net"
+  - "hub5pr.v6.phub.sandai.net"
+  - "hubciddata.sandai.net"
+domain_keyword_set:
+  - "mypikpak"

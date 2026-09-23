@@ -1,0 +1,11 @@
+# Claude：由 Surge/Claude.list 转换
+domain_set:
+  - "cdn.usefathom.com"
+domain_suffix_set:
+  - "anthropic.com"
+  - "claude.ai"
+  - "claude.com"
+  - "claudeusercontent.com"
+domain_keyword_set:
+  - "claude"
+  - "anthropic"

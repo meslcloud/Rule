@@ -1,0 +1,14 @@
+# Bilibili：由 Surge/Bilibili.list 转换
+domain_suffix_set:
+  - "acg.tv"
+  - "acgvideo.com"
+  - "b23.tv"
+  - "biliapi.com"
+  - "biliapi.net"
+  - "bilibili.com"
+  - "biligame.com"
+  - "biligame.net"
+  - "bilivideo.com"
+  - "hdslb.com"
+  - "im9.com"
+  - "smtcdns.net"

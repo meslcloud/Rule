@@ -1,0 +1,5 @@
+# Cursor：由 Surge/Cursor.list 转换
+domain_suffix_set:
+  - "cursor-cdn.com"
+  - "cursor.sh"
+  - "cursor.com"

@@ -1,0 +1,5 @@
+# Perplexity：由 Surge/Perplexity.list 转换
+domain_suffix_set:
+  - "perplexity.ai"
+  - "perplexity.com"
+  - "pplx.ai"

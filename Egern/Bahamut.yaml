@@ -1,0 +1,10 @@
+# Bahamut：由 Surge/Bahamut.list 转换
+domain_suffix_set:
+  - "bahamut.akamaized.net"
+  - "bahamut.com.tw"
+  - "digicert.com"
+  - "fbcdn.net"
+  - "gamer.com.tw"
+  - "gvt1.com"
+  - "hinet.net"
+  - "viblast.com"
