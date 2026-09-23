@@ -1,0 +1,6 @@
+# NAME: Cursor
+# 由 Surge/Cursor.list 转换（DOMAIN→HOST 等，去掉 no-resolve，删除 QX 不支持的 PROCESS-NAME / URL-REGEX / AND）
+# TOTAL: 3
+HOST-SUFFIX,cursor-cdn.com,Cursor
+HOST-SUFFIX,cursor.sh,Cursor
+HOST-SUFFIX,cursor.com,Cursor

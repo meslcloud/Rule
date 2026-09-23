@@ -1,0 +1,11 @@
+# NAME: Reddit
+# 由 Surge/Reddit.list 转换（DOMAIN→HOST 等，去掉 no-resolve，删除 QX 不支持的 PROCESS-NAME / URL-REGEX / AND）
+# TOTAL: 8
+HOST-SUFFIX,redd.it,Reddit
+HOST-SUFFIX,reddit.com,Reddit
+HOST-SUFFIX,redditmail.com,Reddit
+HOST-SUFFIX,redditmedia.com,Reddit
+HOST-SUFFIX,redditstatic.com,Reddit
+HOST-SUFFIX,reddituploads.com,Reddit
+HOST-SUFFIX,reddituploads.com.cdn-cf.behance.net,Reddit
+HOST-SUFFIX,reddituploads.com.cdn-cf.dropbox.com,Reddit

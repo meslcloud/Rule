@@ -1,0 +1,11 @@
+# NAME: Bahamut
+# 由 Surge/Bahamut.list 转换（DOMAIN→HOST 等，去掉 no-resolve，删除 QX 不支持的 PROCESS-NAME / URL-REGEX / AND）
+# TOTAL: 8
+HOST-SUFFIX,bahamut.akamaized.net,Bahamut
+HOST-SUFFIX,bahamut.com.tw,Bahamut
+HOST-SUFFIX,digicert.com,Bahamut
+HOST-SUFFIX,fbcdn.net,Bahamut
+HOST-SUFFIX,gamer.com.tw,Bahamut
+HOST-SUFFIX,gvt1.com,Bahamut
+HOST-SUFFIX,hinet.net,Bahamut
+HOST-SUFFIX,viblast.com,Bahamut

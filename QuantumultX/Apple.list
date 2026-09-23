@@ -1,0 +1,43 @@
+# NAME: Apple
+# 由 Surge/Apple.list 转换（DOMAIN→HOST 等，去掉 no-resolve，删除 QX 不支持的 PROCESS-NAME / URL-REGEX / AND）
+# TOTAL: 40
+HOST-KEYWORD,apple-support.akadns.net,Apple
+HOST-KEYWORD,apple.com.akadns.net,Apple
+HOST-KEYWORD,apple.com.edgekey.net,Apple
+HOST-KEYWORD,buy.itunes.apple.com,Apple
+HOST-KEYWORD,smp-device,Apple
+HOST-KEYWORD,testflight,Apple
+HOST-KEYWORD,icloud.com.akadns.net,Apple
+IP-CIDR,139.178.128.0/18,Apple
+IP-CIDR,144.178.0.0/19,Apple
+IP-CIDR,144.178.36.0/22,Apple
+IP-CIDR,144.178.48.0/20,Apple
+IP-CIDR,17.0.0.0/8,Apple
+IP-CIDR,192.35.50.0/24,Apple
+IP-CIDR,198.183.17.0/24,Apple
+IP-CIDR,205.180.175.0/24,Apple
+IP-CIDR,63.92.224.0/19,Apple
+IP-CIDR,65.199.22.0/23,Apple
+USER-AGENT,*FindMyiPhone?,Apple
+USER-AGENT,*Music?,Apple
+USER-AGENT,*WeatherFoundation*,Apple
+USER-AGENT,*com.apple.Maps?,Apple
+USER-AGENT,*com.apple.mobileme.fmip1,Apple
+USER-AGENT,FMDClient*,Apple
+USER-AGENT,FMFD*,Apple
+USER-AGENT,FindMyFriends*,Apple
+USER-AGENT,FindMyiPhone*,Apple
+USER-AGENT,Maps*,Apple
+USER-AGENT,Wallet*,Apple
+USER-AGENT,com.apple.Maps,Apple
+USER-AGENT,com.apple.appstored*,Apple
+USER-AGENT,fmflocatord*,Apple
+USER-AGENT,geod*,Apple
+USER-AGENT,locationd*,Apple
+USER-AGENT,passd*,Apple
+USER-AGENT,Music*,Apple
+USER-AGENT,AppleNews*,Apple
+USER-AGENT,com.apple.news*,Apple
+USER-AGENT,com.apple.trustd*,Apple
+USER-AGENT,AppleTV*,Apple
+USER-AGENT,com.apple.tv*,Apple

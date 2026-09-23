@@ -1,0 +1,23 @@
+# NAME: Privacy
+# 由 Surge/Privacy.list 转换（DOMAIN→HOST 等，去掉 no-resolve，删除 QX 不支持的 PROCESS-NAME / URL-REGEX / AND）
+# TOTAL: 20
+HOST-KEYWORD,analytics.,Privacy
+HOST-KEYWORD,app-analytics,Privacy
+HOST-KEYWORD,app-log.,Privacy
+HOST-KEYWORD,applog.,Privacy
+HOST-KEYWORD,fzlm,Privacy
+HOST-KEYWORD,ios-log.,Privacy
+HOST-KEYWORD,ioslog.,Privacy
+HOST-KEYWORD,pc-log.,Privacy
+HOST-KEYWORD,pclog.,Privacy
+IP-CIDR,0.0.0.1/32,Privacy
+IP-CIDR,109.123.233.251/32,Privacy
+IP-CIDR,157.148.47.204/32,Privacy
+IP-CIDR,185.193.38.148/32,Privacy
+IP-CIDR,219.143.187.136/32,Privacy
+IP-CIDR,34.215.155.61/32,Privacy
+IP-CIDR,35.194.26.233/32,Privacy
+IP-CIDR,35.239.57.233/32,Privacy
+IP-CIDR,44.228.85.26/32,Privacy
+IP-CIDR,45.32.105.134/32,Privacy
+IP-CIDR,77.162.125.199/32,Privacy

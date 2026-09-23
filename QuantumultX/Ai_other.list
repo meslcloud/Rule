@@ -1,0 +1,7 @@
+# NAME: Ai_other
+# 由 Surge/Ai_other.list 转换（DOMAIN→HOST 等，去掉 no-resolve，删除 QX 不支持的 PROCESS-NAME / URL-REGEX / AND）
+# TOTAL: 4
+HOST-SUFFIX,openrouter.ai,Ai_other
+HOST-SUFFIX,x.ai,Ai_other
+HOST-SUFFIX,grok.com,Ai_other
+HOST-SUFFIX,notion.com,Ai_other

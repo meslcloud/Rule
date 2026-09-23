@@ -1,0 +1,6 @@
+# NAME: Perplexity
+# 由 Surge/Perplexity.list 转换（DOMAIN→HOST 等，去掉 no-resolve，删除 QX 不支持的 PROCESS-NAME / URL-REGEX / AND）
+# TOTAL: 3
+HOST-SUFFIX,perplexity.ai,Perplexity
+HOST-SUFFIX,perplexity.com,Perplexity
+HOST-SUFFIX,pplx.ai,Perplexity

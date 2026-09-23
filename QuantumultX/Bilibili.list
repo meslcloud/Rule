@@ -1,0 +1,15 @@
+# NAME: Bilibili
+# 由 Surge/Bilibili.list 转换（DOMAIN→HOST 等，去掉 no-resolve，删除 QX 不支持的 PROCESS-NAME / URL-REGEX / AND）
+# TOTAL: 12
+HOST-SUFFIX,acg.tv,Bilibili
+HOST-SUFFIX,acgvideo.com,Bilibili
+HOST-SUFFIX,b23.tv,Bilibili
+HOST-SUFFIX,biliapi.com,Bilibili
+HOST-SUFFIX,biliapi.net,Bilibili
+HOST-SUFFIX,bilibili.com,Bilibili
+HOST-SUFFIX,biligame.com,Bilibili
+HOST-SUFFIX,biligame.net,Bilibili
+HOST-SUFFIX,bilivideo.com,Bilibili
+HOST-SUFFIX,hdslb.com,Bilibili
+HOST-SUFFIX,im9.com,Bilibili
+HOST-SUFFIX,smtcdns.net,Bilibili

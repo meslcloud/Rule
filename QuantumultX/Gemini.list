@@ -1,0 +1,13 @@
+# NAME: Gemini
+# 由 Surge/Gemini.list 转换（DOMAIN→HOST 等，去掉 no-resolve，删除 QX 不支持的 PROCESS-NAME / URL-REGEX / AND）
+# TOTAL: 10
+HOST-SUFFIX,gemini.google.com,Gemini
+HOST-SUFFIX,proactivebackend-pa.googleapis.com,Gemini
+HOST-SUFFIX,aisandbox-pa.googleapis.com,Gemini
+HOST-SUFFIX,robinfrontend-pa.googleapis.com,Gemini
+HOST-SUFFIX,signaler-pa.clients6.google.com,Gemini
+HOST-SUFFIX,aistudio.google.com,Gemini
+HOST-SUFFIX,alkalimakersuite-pa.clients6.google.com,Gemini
+HOST-SUFFIX,generativelanguage.googleapis.com,Gemini
+HOST-SUFFIX,alkalicore-pa.clients6.google.com,Gemini
+HOST-SUFFIX,waa-pa.clients6.google.com,Gemini

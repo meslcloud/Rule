@@ -1,0 +1,24 @@
+# NAME: Microsoft_cn
+# 由 Surge/Microsoft_cn.list 转换（DOMAIN→HOST 等，去掉 no-resolve，删除 QX 不支持的 PROCESS-NAME / URL-REGEX / AND）
+# TOTAL: 21
+HOST-SUFFIX,fs.microsoft.com,Microsoft_cn
+HOST-SUFFIX,sdx.microsoft.com,Microsoft_cn
+HOST-SUFFIX,docs.microsoft.com,Microsoft_cn
+HOST-SUFFIX,build.microsoft.com,Microsoft_cn
+HOST-SUFFIX,learn.microsoft.com,Microsoft_cn
+HOST-SUFFIX,devblogs.microsoft.com,Microsoft_cn
+HOST-SUFFIX,download.microsoft.com,Microsoft_cn
+HOST-SUFFIX,developer.microsoft.com,Microsoft_cn
+HOST-SUFFIX,officecdn.microsoft.com,Microsoft_cn
+HOST-SUFFIX,cn.windowssearch.com,Microsoft_cn
+HOST-SUFFIX,ctldl.windowsupdate.com,Microsoft_cn
+HOST-SUFFIX,download.windowsupdate.com,Microsoft_cn
+HOST-SUFFIX,wscont1.apps.microsoft.com,Microsoft_cn
+HOST-SUFFIX,wscont2.apps.microsoft.com,Microsoft_cn
+HOST-SUFFIX,download.prss.microsoft.com,Microsoft_cn
+HOST-SUFFIX,download.visualstudio.microsoft.com,Microsoft_cn
+HOST,res.cdn.office.net,Microsoft_cn
+HOST,res-1.cdn.office.net,Microsoft_cn
+HOST-SUFFIX,storeedgefd.dsx.mp.microsoft.com,Microsoft_cn
+HOST-SUFFIX,dl.delivery.mp.microsoft.com,Microsoft_cn
+HOST,statics.teams.cdn.office.net,Microsoft_cn

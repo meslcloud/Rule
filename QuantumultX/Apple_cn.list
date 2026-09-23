@@ -1,8 +1,11 @@
-HOST-SUFFIX,cn.apple.com
-HOST-SUFFIX,apple.com.cn
-HOST,api.smoot.apple.cn
-HOST-SUFFIX,cn.ls.apple.com
-HOST-SUFFIX,cn-ssl.ls.apple.com
-HOST,gs-loc-cn.apple.com
-HOST-SUFFIX,icloud.com.cn
-HOST-SUFFIX,gspe19-cn-ssl.ls.apple.com
+# NAME: Apple_cn
+# 由 Surge/Apple_cn.list 转换（DOMAIN→HOST 等，去掉 no-resolve，删除 QX 不支持的 PROCESS-NAME / URL-REGEX / AND）
+# TOTAL: 8
+HOST-SUFFIX,cn.apple.com,Apple_cn
+HOST-SUFFIX,apple.com.cn,Apple_cn
+HOST,api.smoot.apple.cn,Apple_cn
+HOST-SUFFIX,cn.ls.apple.com,Apple_cn
+HOST-SUFFIX,cn-ssl.ls.apple.com,Apple_cn
+HOST,gs-loc-cn.apple.com,Apple_cn
+HOST-SUFFIX,icloud.com.cn,Apple_cn
+HOST-SUFFIX,gspe19-cn-ssl.ls.apple.com,Apple_cn

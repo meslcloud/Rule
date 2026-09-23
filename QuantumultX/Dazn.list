@@ -1,0 +1,21 @@
+# NAME: Dazn
+# 由 Surge/Dazn.list 转换（DOMAIN→HOST 等，去掉 no-resolve，删除 QX 不支持的 PROCESS-NAME / URL-REGEX / AND）
+# TOTAL: 18
+HOST-SUFFIX,control.kochava.com,Dazn
+HOST-SUFFIX,d151l6v8er5bdm.cloudfront.net,Dazn
+HOST-SUFFIX,d1sgwhnao7452x.cloudfront.net,Dazn
+HOST-SUFFIX,dazn-api.com,Dazn
+HOST-SUFFIX,dazn.com,Dazn
+HOST-SUFFIX,dazndn.com,Dazn
+HOST-SUFFIX,dc2-vodhls-perform.secure.footprint.net,Dazn
+HOST-SUFFIX,dca-ll-livedazn-dznlivejp.s.llnwi.net,Dazn
+HOST-SUFFIX,dca-ll-voddazn-dznvodjp.s.llnwi.net,Dazn
+HOST-SUFFIX,dcalivedazn.akamaized.net,Dazn
+HOST-SUFFIX,dcblivedazn.akamaized.net,Dazn
+HOST-SUFFIX,indazn.com,Dazn
+HOST-SUFFIX,indaznlab.com,Dazn
+HOST-SUFFIX,intercom.io,Dazn
+HOST-SUFFIX,logx.optimizely.com,Dazn
+HOST-SUFFIX,s.yimg.jp,Dazn
+HOST-SUFFIX,sentry.io,Dazn
+HOST-KEYWORD,voddaz,Dazn

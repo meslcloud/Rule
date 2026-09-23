@@ -1,0 +1,12 @@
+# NAME: Pornhub
+# 由 Surge/Pornhub.list 转换（DOMAIN→HOST 等，去掉 no-resolve，删除 QX 不支持的 PROCESS-NAME / URL-REGEX / AND）
+# TOTAL: 9
+HOST-SUFFIX,phncdn.com,Pornhub
+HOST-SUFFIX,phprcdn.com,Pornhub
+HOST-SUFFIX,porhub.com,Pornhub
+HOST-SUFFIX,porngub.com,Pornhub
+HOST-SUFFIX,pornhub-deutsch.net,Pornhub
+HOST-SUFFIX,pornhub.com,Pornhub
+HOST-SUFFIX,pornhubapparel.com,Pornhub
+HOST-SUFFIX,pornhubpremium.com,Pornhub
+HOST-SUFFIX,pronstore.com,Pornhub

@@ -1,0 +1,26 @@
+# NAME: Abema
+# 由 Surge/Abema.list 转换（DOMAIN→HOST 等，去掉 no-resolve，删除 QX 不支持的 PROCESS-NAME / URL-REGEX / AND）
+# TOTAL: 23
+HOST-SUFFIX,abema-tv.com,Abema
+HOST-SUFFIX,abema.io,Abema
+HOST-SUFFIX,abema.tv,Abema
+HOST-SUFFIX,abematv.akamaized.net,Abema
+HOST-SUFFIX,adx.promo,Abema
+HOST-SUFFIX,ameba.jp,Abema
+HOST-SUFFIX,amebame.com,Abema
+HOST-SUFFIX,amebaownd.com,Abema
+HOST-SUFFIX,amebaowndme.com,Abema
+HOST-SUFFIX,ameblo.jp,Abema
+HOST-SUFFIX,bucketeer.jp,Abema
+HOST-SUFFIX,d1otoma47x30pg.cloudfront.net,Abema
+HOST-SUFFIX,d2wy8f7a9ursnm.cloudfront.net,Abema
+HOST-SUFFIX,dokusho-ojikan.jp,Abema
+HOST-SUFFIX,ds-linear-abematv.akamaized.net,Abema
+HOST-SUFFIX,ds-vod-abematv.akamaized.net,Abema
+HOST-SUFFIX,hayabusa.dev,Abema
+HOST-SUFFIX,hayabusa.io,Abema
+HOST-SUFFIX,hayabusa.media,Abema
+HOST-SUFFIX,linear-abematv.akamaized.net,Abema
+HOST-SUFFIX,vod-abematv.akamaized.net,Abema
+HOST-SUFFIX,winticket.jp,Abema
+HOST-KEYWORD,abematv.akamaized.net,Abema

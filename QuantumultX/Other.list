@@ -1,0 +1,13 @@
+# NAME: Other
+# 由 Surge/Other.list 转换（DOMAIN→HOST 等，去掉 no-resolve，删除 QX 不支持的 PROCESS-NAME / URL-REGEX / AND）
+# TOTAL: 10
+HOST-SUFFIX,github.com,Other
+HOST-SUFFIX,gitlab.com,Other
+HOST-SUFFIX,nikke-en.com,Other
+HOST-SUFFIX,technews.tw,Other
+HOST-SUFFIX,docker.com,Other
+HOST-SUFFIX,debian.org,Other
+HOST-SUFFIX,ubuntu.com,Other
+HOST-SUFFIX,push.apple.com,Other
+HOST-SUFFIX,push-apple.com.akadns.net,Other
+HOST-SUFFIX,courier-push-apple.com.akadns.net,Other

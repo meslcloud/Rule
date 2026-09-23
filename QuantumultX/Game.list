@@ -1,0 +1,4 @@
+# NAME: Game
+# 由 Surge/Game.list 转换（DOMAIN→HOST 等，去掉 no-resolve，删除 QX 不支持的 PROCESS-NAME / URL-REGEX / AND）
+# TOTAL: 1
+HOST-SUFFIX,nikke-en.com,Game

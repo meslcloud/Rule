@@ -1,0 +1,15 @@
+# NAME: Linkedin
+# 由 Surge/Linkedin.list 转换（DOMAIN→HOST 等，去掉 no-resolve，删除 QX 不支持的 PROCESS-NAME / URL-REGEX / AND）
+# TOTAL: 12
+HOST,e122475.dscg.akamaiedge.net,Linkedin
+HOST,licdn.cn.cdn20.com,Linkedin
+HOST,linkedin.sc.omtrdc.net,Linkedin
+HOST-SUFFIX,bizographics.com,Linkedin
+HOST-SUFFIX,l-0005.dc-msedge.net,Linkedin
+HOST-SUFFIX,l-0005.l-msedge.net,Linkedin
+HOST-SUFFIX,licdn.cn,Linkedin
+HOST-SUFFIX,licdn.com,Linkedin
+HOST-SUFFIX,linkedin.at,Linkedin
+HOST-SUFFIX,linkedin.cn,Linkedin
+HOST-SUFFIX,linkedin.com,Linkedin
+HOST-SUFFIX,lnkd.in,Linkedin

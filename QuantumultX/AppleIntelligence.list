@@ -1,0 +1,10 @@
+# NAME: AppleIntelligence
+# 由 Surge/AppleIntelligence.list 转换（DOMAIN→HOST 等，去掉 no-resolve，删除 QX 不支持的 PROCESS-NAME / URL-REGEX / AND）
+# TOTAL: 7
+HOST-SUFFIX,apple-relay.apple.com,AppleIntelligence
+HOST-SUFFIX,apple-relay.cloudflare.com,AppleIntelligence
+HOST-SUFFIX,apple-relay.fastly-edge.com,AppleIntelligence
+HOST-SUFFIX,smoot.apple.com,AppleIntelligence
+HOST-SUFFIX,guzzoni.apple.com,AppleIntelligence
+HOST,cp4.cloudflare.com,AppleIntelligence
+HOST-KEYWORD,apple-relay,AppleIntelligence

@@ -1,0 +1,30 @@
+# NAME: Tiktok
+# 由 Surge/Tiktok.list 转换（DOMAIN→HOST 等，去掉 no-resolve，删除 QX 不支持的 PROCESS-NAME / URL-REGEX / AND）
+# TOTAL: 27
+HOST,lf16-effectcdn.byteeffecttos-g.com,Tiktok
+HOST,lf16-pkgcdn.pitaya-clientai.com,Tiktok
+HOST,p16-tiktokcdn-com.akamaized.net,Tiktok
+HOST-SUFFIX,bytedapm.com,Tiktok
+HOST-SUFFIX,bytegecko-i18n.com,Tiktok
+HOST-SUFFIX,byteoversea.com,Tiktok
+HOST-SUFFIX,capcut.com,Tiktok
+HOST-SUFFIX,ibytedtos.com,Tiktok
+HOST-SUFFIX,ibyteimg.com,Tiktok
+HOST-SUFFIX,ipstatp.com,Tiktok
+HOST-SUFFIX,isnssdk.com,Tiktok
+HOST-SUFFIX,muscdn.com,Tiktok
+HOST-SUFFIX,musical.ly,Tiktok
+HOST-SUFFIX,sgpstatp.com,Tiktok
+HOST-SUFFIX,snssdk.com,Tiktok
+HOST-SUFFIX,tik-tokapi.com,Tiktok
+HOST-SUFFIX,tiktok.com,Tiktok
+HOST-SUFFIX,tiktokcdn-us.com,Tiktok
+HOST-SUFFIX,tiktokcdn.com,Tiktok
+HOST-SUFFIX,tiktokd.net,Tiktok
+HOST-SUFFIX,tiktokd.org,Tiktok
+HOST-SUFFIX,tiktokmusic.app,Tiktok
+HOST-SUFFIX,tiktokv.com,Tiktok
+HOST-SUFFIX,tiktokv.us,Tiktok
+HOST-SUFFIX,ttwebview.com,Tiktok
+HOST-KEYWORD,musical.ly,Tiktok
+HOST-KEYWORD,tiktok,Tiktok

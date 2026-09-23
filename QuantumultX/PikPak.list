@@ -1,0 +1,10 @@
+# NAME: PikPak
+# 由 Surge/PikPak.list 转换（DOMAIN→HOST 等，去掉 no-resolve，删除 QX 不支持的 PROCESS-NAME / URL-REGEX / AND）
+# TOTAL: 7
+HOST-SUFFIX,dlandroid.rcv.sandai.net,PikPak
+HOST-SUFFIX,hub5idx.v6.shub.sandai.net,PikPak
+HOST-SUFFIX,hub5pn.wap.sandai.net,PikPak
+HOST-SUFFIX,hub5pnc.sandai.net,PikPak
+HOST-SUFFIX,hub5pr.v6.phub.sandai.net,PikPak
+HOST-SUFFIX,hubciddata.sandai.net,PikPak
+HOST-KEYWORD,mypikpak,PikPak

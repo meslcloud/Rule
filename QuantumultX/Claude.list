@@ -1,0 +1,10 @@
+# NAME: Claude
+# 由 Surge/Claude.list 转换（DOMAIN→HOST 等，去掉 no-resolve，删除 QX 不支持的 PROCESS-NAME / URL-REGEX / AND）
+# TOTAL: 7
+HOST,cdn.usefathom.com,Claude
+HOST-SUFFIX,anthropic.com,Claude
+HOST-SUFFIX,claude.ai,Claude
+HOST-SUFFIX,claude.com,Claude
+HOST-SUFFIX,claudeusercontent.com,Claude
+HOST-KEYWORD,claude,Claude
+HOST-KEYWORD,anthropic,Claude
