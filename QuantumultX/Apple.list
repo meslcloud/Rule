@@ -1,6 +1,4 @@
-# NAME: Apple
-# 由 Surge/Apple.list 转换（DOMAIN→HOST 等，去掉 no-resolve，删除 QX 不支持的 PROCESS-NAME / URL-REGEX / AND）
-# TOTAL: 40
+HOST-SUFFIX,ls.apple.com,Apple
 HOST-KEYWORD,apple-support.akadns.net,Apple
 HOST-KEYWORD,apple.com.akadns.net,Apple
 HOST-KEYWORD,apple.com.edgekey.net,Apple
