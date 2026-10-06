@@ -1,5 +1,7 @@
 # Apple：由 Surge/Apple.list 转换
 no_resolve: true
+domain_suffix_set:
+  - "ls.apple.com"
 domain_keyword_set:
   - "apple-support.akadns.net"
   - "apple.com.akadns.net"
