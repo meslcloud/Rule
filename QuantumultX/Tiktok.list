@@ -1,6 +1,6 @@
 # NAME: Tiktok
 # 由 Surge/Tiktok.list 转换（DOMAIN→HOST 等，去掉 no-resolve，删除 QX 不支持的 PROCESS-NAME / URL-REGEX / AND）
-# TOTAL: 27
+# TOTAL: 26
 HOST,lf16-effectcdn.byteeffecttos-g.com,Tiktok
 HOST,lf16-pkgcdn.pitaya-clientai.com,Tiktok
 HOST,p16-tiktokcdn-com.akamaized.net,Tiktok
@@ -15,7 +15,6 @@ HOST-SUFFIX,isnssdk.com,Tiktok
 HOST-SUFFIX,muscdn.com,Tiktok
 HOST-SUFFIX,musical.ly,Tiktok
 HOST-SUFFIX,sgpstatp.com,Tiktok
-HOST-SUFFIX,snssdk.com,Tiktok
 HOST-SUFFIX,tik-tokapi.com,Tiktok
 HOST-SUFFIX,tiktok.com,Tiktok
 HOST-SUFFIX,tiktokcdn-us.com,Tiktok

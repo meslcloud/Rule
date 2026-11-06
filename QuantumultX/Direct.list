@@ -1,6 +1,6 @@
 # NAME: Direct
 # 由 Surge/Direct.list 转换（DOMAIN→HOST 等，去掉 no-resolve，删除 QX 不支持的 PROCESS-NAME / URL-REGEX / AND）
-# TOTAL: 152
+# TOTAL: 153
 HOST,apd-pcdnwxlogin.teg.tencent-cloud.net,Direct
 HOST,btrace.qq.com,Direct
 HOST,dldir1.qq.com,Direct
@@ -153,3 +153,4 @@ IP-CIDR,10.0.0.0/8,Direct
 IP-CIDR,172.16.0.0/12,Direct
 IP-CIDR,127.0.0.0/8,Direct
 IP-CIDR,100.64.0.0/10,Direct
+HOST-SUFFIX,snssdk.com,Direct
