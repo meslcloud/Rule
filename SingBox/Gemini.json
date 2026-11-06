@@ -12,7 +12,13 @@
         "alkalimakersuite-pa.clients6.google.com",
         "generativelanguage.googleapis.com",
         "alkalicore-pa.clients6.google.com",
-        "waa-pa.clients6.google.com"
+        "waa-pa.clients6.google.com",
+        "geminiweb-pa.clients.google.com",
+        "geminiweb-pa.clients6.google.com",
+        "gemini.gstatic.com",
+        "appsgenaiserver-pa.googleapis.com",
+        "appsgenaiserver-pa.clients6.google.com",
+        "notebooklm.google.com"
       ]
     }
   ]

@@ -12,7 +12,26 @@
         "cloudcode-pa.googleapis.com",
         "daily-cloudcode-pa.googleapis.com",
         "daily-cloudcode-pa.sandbox.googleapis.com",
-        "cloudaicompanion.googleapis.com"
+        "cloudaicompanion.googleapis.com",
+        "gemini.google.com",
+        "proactivebackend-pa.googleapis.com",
+        "aisandbox-pa.googleapis.com",
+        "robinfrontend-pa.googleapis.com",
+        "signaler-pa.clients6.google.com",
+        "aistudio.google.com",
+        "alkalimakersuite-pa.clients6.google.com",
+        "generativelanguage.googleapis.com",
+        "alkalicore-pa.clients6.google.com",
+        "waa-pa.clients6.google.com",
+        "geminiweb-pa.clients.google.com",
+        "geminiweb-pa.clients6.google.com",
+        "gemini.gstatic.com",
+        "appsgenaiserver-pa.googleapis.com",
+        "appsgenaiserver-pa.clients6.google.com",
+        "notebooklm.google.com",
+        "grokusercontent.com",
+        "grok.x.com",
+        "githubcopilot.com"
       ]
     }
   ]
