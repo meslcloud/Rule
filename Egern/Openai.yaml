@@ -5,3 +5,6 @@ domain_suffix_set:
   - "oaiusercontent.com"
   - "chatgpt.com"
   - "sora.com"
+  - "oaistatsig.com"
+domain_keyword_set:
+  - "openai"
