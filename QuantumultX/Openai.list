@@ -1,8 +1,10 @@
 # NAME: Openai
 # 由 Surge/Openai.list 转换（DOMAIN→HOST 等，去掉 no-resolve，删除 QX 不支持的 PROCESS-NAME / URL-REGEX / AND）
-# TOTAL: 5
+# TOTAL: 7
 HOST-SUFFIX,openai.com,Openai
 HOST-SUFFIX,oaistatic.com,Openai
 HOST-SUFFIX,oaiusercontent.com,Openai
 HOST-SUFFIX,chatgpt.com,Openai
 HOST-SUFFIX,sora.com,Openai
+HOST-SUFFIX,oaistatsig.com,Openai
+HOST-KEYWORD,openai,Openai

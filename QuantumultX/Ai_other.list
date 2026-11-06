@@ -1,6 +1,6 @@
 # NAME: Ai_other
 # 由 Surge/Ai_other.list 转换（DOMAIN→HOST 等，去掉 no-resolve，删除 QX 不支持的 PROCESS-NAME / URL-REGEX / AND）
-# TOTAL: 10
+# TOTAL: 29
 HOST-SUFFIX,openrouter.ai,Ai_other
 HOST-SUFFIX,x.ai,Ai_other
 HOST-SUFFIX,grok.com,Ai_other
@@ -11,3 +11,22 @@ HOST-SUFFIX,cloudcode-pa.googleapis.com,Ai_other
 HOST-SUFFIX,daily-cloudcode-pa.googleapis.com,Ai_other
 HOST-SUFFIX,daily-cloudcode-pa.sandbox.googleapis.com,Ai_other
 HOST-SUFFIX,cloudaicompanion.googleapis.com,Ai_other
+HOST-SUFFIX,gemini.google.com,Ai_other
+HOST-SUFFIX,proactivebackend-pa.googleapis.com,Ai_other
+HOST-SUFFIX,aisandbox-pa.googleapis.com,Ai_other
+HOST-SUFFIX,robinfrontend-pa.googleapis.com,Ai_other
+HOST-SUFFIX,signaler-pa.clients6.google.com,Ai_other
+HOST-SUFFIX,aistudio.google.com,Ai_other
+HOST-SUFFIX,alkalimakersuite-pa.clients6.google.com,Ai_other
+HOST-SUFFIX,generativelanguage.googleapis.com,Ai_other
+HOST-SUFFIX,alkalicore-pa.clients6.google.com,Ai_other
+HOST-SUFFIX,waa-pa.clients6.google.com,Ai_other
+HOST-SUFFIX,geminiweb-pa.clients.google.com,Ai_other
+HOST-SUFFIX,geminiweb-pa.clients6.google.com,Ai_other
+HOST-SUFFIX,gemini.gstatic.com,Ai_other
+HOST-SUFFIX,appsgenaiserver-pa.googleapis.com,Ai_other
+HOST-SUFFIX,appsgenaiserver-pa.clients6.google.com,Ai_other
+HOST-SUFFIX,notebooklm.google.com,Ai_other
+HOST-SUFFIX,grokusercontent.com,Ai_other
+HOST-SUFFIX,grok.x.com,Ai_other
+HOST-SUFFIX,githubcopilot.com,Ai_other
