@@ -143,6 +143,7 @@ domain_suffix_set:
   - "zhimg.com"
   - "zimuzu.tv"
   - "zoho.com"
+  - "snssdk.com"
 domain_keyword_set:
   - "alicdn"
   - "alipay"
