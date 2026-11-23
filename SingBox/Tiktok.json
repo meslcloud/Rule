@@ -28,7 +28,14 @@
         "tiktokmusic.app",
         "tiktokv.com",
         "tiktokv.us",
-        "ttwebview.com"
+        "ttwstatic.com",
+        "byteintlapi.com",
+        "byteintlstatic.com",
+        "ttcdn-us.com",
+        "capcutapi.com",
+        "capcutapi.us",
+        "capcutstatic.com",
+        "capcutcdn-us.com"
       ],
       "domain_keyword": [
         "musical.ly",
